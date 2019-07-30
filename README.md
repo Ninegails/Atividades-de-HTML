@@ -6,5 +6,5 @@ Atividades de HTML
 - [x] h3
 - [x] <a href =  target =>
 - [x] <img src =>
-- [x] <br>
-- [x] <hr>
+- [x] br
+- [x] hr
